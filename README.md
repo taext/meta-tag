@@ -17,7 +17,8 @@ a worldboy.org white paper
 The meta-tag
 
 1. is an open-source general-purpose explicit meta-data format
-2. adds a hierarchical dimension to the tag concept
+2. is a formalization of explicit content tagging #that_is #not_these
+3. adds a descriptive dimension to the tagging concept (tag your tags!)
 
 <br>
 
