@@ -6,7 +6,7 @@
 
 march 3rd 2018 by d@v1d.dk
 
-a worldboy.org white paper
+
 
 <img src="meta-tag_logo_4.png" alt="Drawing" width=300/>
 
