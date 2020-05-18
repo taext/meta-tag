@@ -68,7 +68,7 @@ This example of a phone number with explicit meta-data demonstrates the full syn
 
 Here are the final two syntax components, used in this example, completing the meta-tag definition:
 
-1.  by convention, title-case tags are considered title/text tags
+1.  by convention, tags with a capital first letter are considered title/text tags
 
 2. the trailing `..` allows for white-space (normally `_` underscore)
 
